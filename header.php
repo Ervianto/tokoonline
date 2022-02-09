@@ -93,7 +93,7 @@ if($file == "checkout.php"){
 					<!-- Logo -->
 					<div class="header-logo">
 						<a class="logo" href="#">
-							<img src="frontend/img/bonafide.png" alt="">
+							<img src="frontend/img/rshop.png" alt="">
 						</a>
 					</div>
 					<!-- /Logo -->
@@ -275,6 +275,7 @@ if($file == "checkout.php"){
 					<ul class="menu-list">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="index.php">Shop</a></li>
+						<li><a href="index.php">About</a></li>
 						<li><a href="login.php">Login Admin</a></li>
 					</ul>
 				</div>

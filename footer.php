@@ -12,12 +12,12 @@
 					<!-- footer logo -->
 					<div class="footer-logo">
 						<a class="logo" href="#">
-							<img src="frontend/img/bonafide.png" alt="">
+							<img src="frontend/img/rshop.png" alt="">
 						</a>
 					</div>
 					<!-- /footer logo -->
 
-					<p>Toko online penyedia pakaian tenun terlengkap, tersedia berbagai ukuran dengan kualitas terbaik.</p>
+					<p>Toko online penyedia produk lokal terlengkap, tersedia berbagai jenis dengan kualitas terbaik.</p>
 
 				</div>
 			</div>
@@ -26,12 +26,10 @@
 			<!-- footer widget -->
 			<div class="col-md-3 col-sm-6 col-xs-6">
 				<div class="footer">
-					<h3 class="footer-header">My Account</h3>
+					<h3 class="footer-header">Alamat Kami</h3>
 					<ul class="list-links">
-						<li><a href="keranjang.php">Keranjang</a></li>
-						<li><a href="checkout.php">Checkout</a></li>
-						<li><a href="daftar.php">Daftar</a></li>
-						<li><a href="masuk.php">Login</a></li>
+						<li><a href="#">Jl. Raya Payakumbuh - Lintau, Tanjung Bonai, Lintau Buo Utara, Kabupaten Tanah Datar, Sumatra Barat 27292 (Fam.Kadai)</a></li>
+						<li><a href="#">Jl. Dusun Lingkungan, Andaleh Baruh Bukit, Sungayang, Kabupaten Tanah Datar, Sumatra Barat 27294 (Gula Semut)</a></li>
 					</ul>
 				</div>
 			</div>
@@ -42,11 +40,11 @@
 			<!-- footer widget -->
 			<div class="col-md-3 col-sm-6 col-xs-6">
 				<div class="footer">
-					<h3 class="footer-header">Customer Service</h3>
+					<h3 class="footer-header">Kontak Kami</h3>
 					<ul class="list-links">
-						<li><a href="#">Tentang</a></li>
-						<li><a href="#">Pengiriman</a></li>
-						<li><a href="#">Tracking Resi</a></li>
+						<li><a href="#">082384643480 (GulaSemut)</a></li>
+						<li><a href="#">085159879879 (CofeeSeries)</a></li>
+						<li><a href="#">081213132812 (Dried Slice)</a></li>
 					</ul>
 				</div>
 			</div>
@@ -57,7 +55,7 @@
 				<div class="footer">
 					<h3 class="footer-header">Stay Connected</h3>
 					
-					<p>Follow media sosial kami untuk lebih dekat dan mendapat informasi-informasi terbaru tentang toko kami.</p>
+					<p>Follow media sosial kami untuk lebih dekat dan mendapat informasi-informasi terbaru tentang toko kami.<br> @fam.kadai<br>@gula_semut_geloraminangkabau</br></br></p>
 					
 					<!-- footer social -->
 					<ul class="footer-social">
@@ -197,21 +195,21 @@
 		// $(".pilih-kurir").on("change",function(){
 
 		// 	alert('sd');
-			// var asal = 152;
-			// var kab = $('#kabupaten').val();
-			// var kurir = "a";
-			// var berat = $('#berat2').val();
+		// 	var asal = 152;
+		// 	var kab = $('#kabupaten').val();
+		// 	var kurir = "a";
+		// 	var berat = $('#berat2').val();
 
-			// $.ajax({
-			// 	type : 'POST',
-			// 	url : 'rajaongkir/cek_ongkir.php',
-			// 	data :  {'kab_id' : kab, 'kurir' : kurir, 'asal' : asal, 'berat' : berat},
-			// 	success: function (data) {
-			// 		$("#ongkir").html(data);
-			// 		// alert(data);
+		// 	$.ajax({
+		// 		type : 'POST',
+		// 		url : 'rajaongkir/cek_ongkir.php',
+		// 		data :  {'kab_id' : kab, 'kurir' : kurir, 'asal' : asal, 'berat' : berat},
+		// 		success: function (data) {
+		// 			$("#ongkir").html(data);
+		// 			// alert(data);
 
-			// 	}
-			// });
+		// 		}
+		// 	});
 		// });
 
 
