@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Dashboard Admin - Toko Online Penjualan Produk Kerajinan Kulit</title>
+  <title>Dashboard Admin - Toko Online Penjualan Produk Lokal</title>
   
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link rel="stylesheet" href="../assets/bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -35,8 +35,8 @@
 
     <header class="main-header">
       <a href="index.php" class="logo">
-        <span class="logo-mini"><b>BONA</b>FIDE </span>
-        <span class="logo-lg"><b>BONA</b>FIDE</span>
+        <span class="logo-mini"><b>Mudo</b>Kreatif </span>
+        <span class="logo-lg"><b>Mudo</b>Kreatif</span>
       </a>
       <nav class="navbar navbar-static-top">
         <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
