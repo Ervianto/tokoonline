@@ -8,7 +8,7 @@ PANDUAN INSTALASI SOURCE CODE
 3. Import file 'project_tokoonline.sql' ke database 'project_tokoonline' yang sudah dibuat.
 4. Copy folder 'project_tokoonline' ke folder htdocs. 
 	Letak folder htdocs XAMPP windows ada di C://XAMPP/htdocs
-5. Akses toko online dengan alamat 'localhost/online-shop' pada web browser.
+5. Akses toko online dengan alamat 'localhost/tokoonline' pada web browser.
 6. Selesai.
 
 
@@ -16,6 +16,8 @@ PANDUAN INSTALASI SOURCE CODE
 
 LOGIN ADMIN
 
-username : admin
+Akses toko online dengan alamat 'localhost/tokoonline/login.php' pada web browser.
+
+username : admin@gmail.com
 password : admin
 

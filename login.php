@@ -19,8 +19,8 @@
       <center>
 
 
-        <h2>TOKO ONLINE</h2>
-        <h3>PRODUK LOKAL</h3>
+        <h2>E-COMMERCE</h2>
+        <h3>MUDO KREATIF</h3>
 
         <br/>
 

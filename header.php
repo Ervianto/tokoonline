@@ -275,7 +275,6 @@ if($file == "checkout.php"){
 					<ul class="menu-list">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="index.php">Shop</a></li>
-						<li><a href="index.php">About</a></li>
 
 					</ul>
 				</div>
