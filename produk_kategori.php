@@ -101,7 +101,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o empty"></i>
+											<i class="fa fa-star"></i>
 										</div>
 										<h2 class="product-name"><a href="produk_detail.php?id=<?php echo $d['produk_id'] ?>"><?php echo $d['produk_nama']; ?></a></h2>
 										<div class="product-btns">

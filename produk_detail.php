@@ -112,7 +112,8 @@ while($d=mysqli_fetch_array($data)){
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
-									<i class="fa fa-star-o empty"></i>
+									<i class="fa fa-star"></i>
+
 								</div>
 								<!-- <a href="#">3 Review(s) / Add Review</a> -->
 							</div>
