@@ -1,6 +1,3 @@
-# online_shop_ongkir
-LITTLE ONLINE SHOP WITH PERHITUNGAN ONGKIR WITH PHP 7 & MYSQLi
-
 PANDUAN INSTALASI SOURCE CODE
 
 1. Buka localhost/phpmyadmin pada web browser.
